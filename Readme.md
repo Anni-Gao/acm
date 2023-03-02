@@ -1,12 +1,16 @@
 # Self-introduction #
 
+## This repository
+
+**WP & Algorithm & Knowledge For Luogu & Leetcode & Programming**、
+
 ## Label
 
- - **Graduate from NEFU
- - **Major in Software Engineering
- - **Used to be an ACMer
- - **Used to be a Product Manager in a cyber security company
- - **Currently out of work
+ - **Graduate from NEFU**
+ - **Major in Software Engineering**
+ - **Used to be an ACMer**
+ - **Used to be a Product Manager in a cyber security company**
+ - **Currently out of work**
 
 ## Self-analysis
 
@@ -18,8 +22,6 @@ I made many different choices, and also experienced the lives of scientific rese
 
 After clearing up my mood and settling down for some time, I felt that **the time to engage in ACM was my happiest time.** 
 
-At present, I am still confused about my future, but **the ACM programming will never stop!**
+At present, I am still confused about my future, but **$\color{#FF0000}{the}$ $\color{#FF0000}{ACM}$ $\color{#FF0000}{programming}$ $\color{#FF0000}{will}$ $\color{#FF0000}{never}$ $\color{#FF0000}{stop!}$**
 
-## This repository
 
-**WP & Algorithm & Knowledge For Luogu & Leetcode & Programming
