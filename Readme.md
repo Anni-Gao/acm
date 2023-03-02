@@ -3,9 +3,9 @@
 ## Label
 
  - Graduate from NEFU
- - Major in SoftwareEngineering
+ - Major in Software Engineering
  - Used to be an ACMer
- - Used to be a product manager in a cyber security company
+ - Used to be a Product Manager in a cyber security company
  - Currently out of work
 
 ## Self-analysis
